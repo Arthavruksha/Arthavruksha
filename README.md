@@ -1,12 +1,10 @@
-### Hello Everyone 👋
-
-<!--
-**Arthavruksha/Arthavruksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello Everyone 👋 Jay Shankarpure Here (Founder - Arthavruksha)
 
 
 - 🔭 I’m currently working on Shodh by Arthavruksha - Shodh.Arthavruksha.Co.In (Stock Research Platform with niche data)
+
 - 🌱 I’m currently learning about Coding , Content Creation & Entrepreneurship
-- 📫 How to reach me: Twitter.com/Arthavruksha12
+
+- 📫 Reach Out to me at Twitter : Twitter.com/Arthavruksha12
 
 
--->

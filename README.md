@@ -10,7 +10,7 @@
 
 - 📫 Reach Out to me at Twitter : https://twitter.com/Arthavruksha12
 
-![Profile Views](https://komarev.com/ghpvc/?username=arthavruksha) 
+![Profile Views](https://komarev.com/ghpvc/?username=arthavruksha)  (You are one of them)
 
 [![Arthavruksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthavruksha)](https://github.com/arthavruksha/github-readme-stats)
 

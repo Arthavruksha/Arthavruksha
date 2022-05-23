@@ -10,4 +10,6 @@
 
 - 📫 Reach Out to me at Twitter : https://twitter.com/Arthavruksha12
 
+[![Arthavruksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthavruksha)](https://github.com/arthavruksha/github-readme-stats)
+
 

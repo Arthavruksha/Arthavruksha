@@ -1,5 +1,6 @@
 ### Hello Everyone 👋 Jay Shankarpure Here (Founder - Arthavruksha)
 
+- 😀 I run a Weekly newsletter for Stock Market Investors (https://Arthavruksha.Substack.com) & Host a Podcast on my Youtube Channel where i host Entrepreneurs & Investors (https://www.youtube.com/c/JayShankarpure)
 
 - 🔭 I’m currently working on Shodh by Arthavruksha - https://Shodh.Arthavruksha.Co.In (Stock Research Platform with niche data)
 

@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning about Coding , Content Creation & Entrepreneurship
 
-- 📫 Reach Out to me at Twitter : Twitter.com/Arthavruksha12
+- 📫 Reach Out to me at Twitter : https://twitter.com/Arthavruksha12
 
 

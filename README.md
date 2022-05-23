@@ -1,3 +1,7 @@
+![Profile Views](https://komarev.com/ghpvc/?username=arthavruksha)  
+(You are one of them)
+
+
 ### Hello Everyone 👋 Jay Shankarpure Here (Founder - Arthavruksha)
 
 - 😀 I run a Weekly newsletter for Stock Market Investors (https://Arthavruksha.Substack.com) 
@@ -13,6 +17,8 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arthavruksha)  (You are one of them)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthavruksha&theme=blue-green)
 
 
 

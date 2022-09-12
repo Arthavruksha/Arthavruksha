@@ -10,7 +10,6 @@
 
 - 📫 Reach Out to me at Twitter : https://twitter.com/Arthavruksha12
 
-![Profile Views](https://komarev.com/ghpvc/?username=arthavruksha) (You are one of them 😀. Have a nice day ahead)
 
 
 

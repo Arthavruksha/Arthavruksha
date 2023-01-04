@@ -1,6 +1,6 @@
 ### Hey , Jay here 👋 
 
-<div id="header" align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/> </div>
+<div id="header" align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" /> </div>
 
 - 🎤 I Host a Podcast on my Youtube Channel wherein I host Entrepreneurs & Investors (https://www.youtube.com/c/JayShankarpure)
 

@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning about Coding , Competitive Programming , Content Creation & Entrepreneurship
 
-- 📫 You can reach Out to me at Twitter : (https://twitter.com/Arthavruksha12)
+- 📫 You can reach out to me at Twitter : (https://twitter.com/Arthavruksha12)
 
 
 

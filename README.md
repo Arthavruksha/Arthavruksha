@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Shankarpure</h1>
 <h3 align="center">16 Year old , Developer and Investor</h3>
 
-<p align="left"> <a href="https://twitter.com/arthavruksha12" target="blank"><img src="https://img.shields.io/twitter/follow/arthavruksha12?logo=twitter&style=for-the-badge" alt="arthavruksha12" /></a> </p>
-
 - 🔭 I’m currently working on [Shodh](https://shodh.arthavruksha.co.in/)
 
 - 👯 I’m looking to collaborate on **Any Cool Projects , Just a DM away :)**

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Shankarpure</h1>
-<h3 align="center">16 Year old , Developer and Investor</h3>
+<h3 align="center">16 Year old builder!r</h3>
 
-- 🔭 I’m currently working on [Shodh](https://shodh.arthavruksha.co.in/)
+- 🔭 I’m currently working as ML Engineer Intern at [Scientific Investing](https://scientificinvesting.in/) & building [Spark](https://sparkclub.xyz/)
 
 - 👯 I’m looking to collaborate on **Any Cool Projects , Just a DM away :)**
 
